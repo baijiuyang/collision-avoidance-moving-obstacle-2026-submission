@@ -1,0 +1,26 @@
+# Data are not part of this repository (see README.md, "Data")
+data/
+*.pickle
+*.csv
+
+# Generated output
+results/
+fitting_log_*.txt
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# R graphics device output
+Rplots.pdf

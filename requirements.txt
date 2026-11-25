@@ -1,0 +1,13 @@
+# Python versions used for the manuscript analyses (Python 3.6.10)
+numpy==1.18.1
+scipy==1.4.1
+matplotlib==3.1.3
+scikit-learn==0.24.2
+pandas==1.0.1
+jupyter
+# The notebooks use `%matplotlib qt` for interactive figures, which needs a Qt binding:
+pyqt5
+
+# R (4.2.0) packages used by stats/*.R, install in R with:
+#   install.packages(c("lme4", "car", "dplyr", "ggplot2", "tidyverse", "rstatix"))
+# Versions used: lme4 1.1-30, car 3.1-1, dplyr 1.0.10, ggplot2 3.4.0, rstatix 0.7.0
