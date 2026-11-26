@@ -1,0 +1,16 @@
+{
+  "title": "Code for \"Collision avoidance with a moving obstacle: Anticipation without prediction\"",
+  "upload_type": "software",
+  "description": "Analysis and modeling code for the article \"Collision avoidance with a moving obstacle: Anticipation without prediction\" (Bai, Cohen, Bruggeman & Warren), submitted to the Journal of Experimental Psychology: General. It fits and simulates behavioral-dynamics models of pedestrian collision avoidance with a moving obstacle (an omniscient and a visual avoidance model combined with a goal model) and analyzes the human walking trajectories. The data are archived separately at https://doi.org/10.5281/zenodo.24547578.",
+  "creators": [
+    {"name": "Bai, Jiuyang", "orcid": "0000-0002-9390-4601"},
+    {"name": "Cohen, Jonathan A."},
+    {"name": "Bruggeman, Hugo"},
+    {"name": "Warren, William H.", "affiliation": "Brown University", "orcid": "0000-0003-4843-2315"}
+  ],
+  "license": "mit",
+  "keywords": ["collision avoidance", "locomotion", "behavioral dynamics", "moving obstacle", "optical expansion"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.24547578", "relation": "requires", "scheme": "doi", "resource_type": "dataset"}
+  ]
+}
