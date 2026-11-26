@@ -17,7 +17,7 @@ Each avoidance model is combined with a **goal model** (Equation 3, `fajen_appro
 
 ## Data
 
-The data are **not** included in this repository. They are archived on Zenodo: **[DATA REPOSITORY LINK / DOI]**.
+The data are **not** included in this repository. They are archived on Zenodo: **[https://doi.org/10.5281/zenodo.24547579](https://doi.org/10.5281/zenodo.24547579)**.
 
 Download the three files (`Cohen_movObst1_rawData.csv`, `Cohen_movObst2_rawData.csv` and `F&W2003_Exp1a_rawData.zip`) into a folder named `data/` at the root of this repository, and unzip `F&W2003_Exp1a_rawData.zip` there. You should end up with:
 
