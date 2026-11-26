@@ -2,6 +2,8 @@
 
 Analysis and modeling code for the article *Collision avoidance with a moving obstacle: Anticipation without prediction* (Bai, Cohen, Bruggeman & Warren), submitted to the *Journal of Experimental Psychology: General*.
 
+Archived code: [https://doi.org/10.5281/zenodo.24547862](https://doi.org/10.5281/zenodo.24547862) · Data: [https://doi.org/10.5281/zenodo.24547578](https://doi.org/10.5281/zenodo.24547578)
+
 The code fits and simulates behavioral-dynamics models of pedestrian collision avoidance with a moving obstacle:
 
 * an **omniscient model** (Equation 1) whose avoidance response depends on obstacle distance (`cohen_avoid` in the code)
