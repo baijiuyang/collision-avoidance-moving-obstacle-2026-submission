@@ -115,3 +115,7 @@ python fitting.py --experiment_name Cohen_movObst1 --subject all --avoid_model c
 * The notebooks use `%matplotlib qt` for interactive figures.
 * The goal-model parameters were fitted with an earlier version of this code. `01_import_data.ipynb` prepares the `Fajen_steer1a` data, and the fitted values are stored in `parameters.py`.
 * The *Control Strategy Comparisons* analysis (Figure 19) is not included in this repository.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The data are not covered by this license; see the data repository for their terms.
